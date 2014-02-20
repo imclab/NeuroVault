@@ -17,3 +17,4 @@ django-dbbackup
 numpy
 nibabel
 psycopg2
+pycortex
